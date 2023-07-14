@@ -5,14 +5,13 @@
 
 ## This is a super simple Todo App built using React.js and styled using Mantine UI.
 
-You can view a live demo of the project here:
+You can view a live demo of the project here: https://rushichavan-dev.github.io/todo_react_app/
 Or, you can watch this video demo
 
 ### **(Most likely outdated, its reccomeneded you check out the live demo!)**
 
 
-https://github.com/RushiChavan-dev/Todo-List-/assets/50754786/a717a5d7-dacc-4381-86e2-168ac7f7927c
-
+https://github.com/RushiChavan-dev/todo_react_app/assets/50754786/96a06ba6-2d18-457f-bb44-bd59d440d576
 
 
 ## 😃 Features:
